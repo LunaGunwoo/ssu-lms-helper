@@ -1,4 +1,4 @@
-# 숭실대 LMS TODO 관리 도구
+# 숭실대 LMS Helper
 
 [숭실대학교 LMS](https://lms.ssu.ac.kr/)의 TODO 관리를 위한 **Chrome Extension 개발**
 
@@ -11,4 +11,4 @@
 
 ## 📄 라이선스
 
-이 프로젝트는 [MIT 라이선스](https://github.com/LunaGunwoo/ssu-lms-todo/blob/main/LICENSE)를 따릅니다.
+이 프로젝트는 [MIT 라이선스](https://github.com/LunaGunwoo/ssu-lms-helper/blob/main/LICENSE)를 따릅니다.

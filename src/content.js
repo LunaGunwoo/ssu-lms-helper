@@ -12,7 +12,7 @@ function init() {
     return;
   }
 
-  console.info("[ssu-lms-todo] 초기화 완료");
+  console.info("[ssu-lms-helper] 초기화 완료");
 }
 
 init();

@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "SSU LMS TODO",
+  "name": "SSU LMS Helper",
   "version": "0.0.1",
   "content_scripts": [
     {
