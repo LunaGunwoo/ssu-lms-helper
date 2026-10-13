@@ -4,7 +4,10 @@
   "version": "0.0.1",
   "content_scripts": [
     {
-      "matches": ["https://lms.ssu.ac.kr/mypage*"],
+      "matches": [
+        "https://lms.ssu.ac.kr/mypage*",
+        "https://canvas.ssu.ac.kr/accounts/1/external_tools/67*"
+      ],
       "js": ["content.js"],
       "run_at": "document_idle"
     }
