@@ -1,3 +1,11 @@
 "use strict";
 
-console.info("[ssu-lms-todo] 확장 프로그램이 로드되었습니다.");
+function init() {
+  if (location.pathname !== "/mypage" && location.pathname !== "/mypage/") {
+    return;
+  }
+
+  console.info("[ssu-lms-todo] 초기화 완료");
+}
+
+init();
